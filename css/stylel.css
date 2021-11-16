@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+body{
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+br{}
+.colour{
+    height: 4px;
+    width: 46px;
+    background-color: #f2622c;
+    /* margin-bottom: 12px; */
+}
+.heading-section{
+    height: 80px;
+    margin-bottom: 19px;
+}
+.heading{}
+.heading h1{
+    font-size: 36px;
+    color: #204f87;
+    font-weight: 700;
+    padding-top: 14px;
+}
+
+/*
+*******************************************
+      banner-section
+*******************************************
+*/
+.navbar h1{
+    font-size: 35px;
+    color: #28377e;
+}
+.nav-link{
+    color: #204f87;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.banner-section{
+
+}
+.img-1{
+    position: absolute;
+}
+.img-1 img{}
+.img-2{
+}
+.img-2 img{}
+.banner{
+    position: relative;
+}
+.banner h2{
+    position: absolute;
+    top: 35%;
+    left: 34%;
+    font-size: 63px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+}
+.banner li{
+    list-style-type: none;
+}
+.banner li a{
+    text-decoration: none;
+    font-size: 36px;
+    position: absolute;
+    bottom: 10%;
+    right: 48%;
+    color: #fff;
+}
+
+
+/*
+*******************************************
+      portfolio-section
+*******************************************
+*/
+
+.portfolio-section{
+    padding-top: 140px;
+    margin-bottom: 50px;
+}
+.portfolio{
+    padding: 30px;
+}
+.portfolio p{
+    color: #b0b0b1;
+    width: 534px !important;
+}
+.margin-auto{
+    margin: auto;
+}
+.portfolio img{
+
+}
+
+
+
+
+/*
+*******************************************
+      feature-section
+*******************************************
+*/
+
+
+.feature-section{
+    min-height: 666px;
+    padding-top: 67px;
+    background-color: #F7F8F8;
+}
+.feature{
+   
+position: relative;
+ }
+
+.feature img{}
+.feature h4{
+   
+position: absolute;  
+top: 158px;
+left: 59px;
+color: #fff;
+font-size: 30px;
+}
+.feature li {
+   
+position: absolute;
+bottom: 13px;
+right: 127px;
+list-style: none;
+}
+.feature li a{
+text-decoration: none;
+color: #fff;
+font-size: 60px;
+}
+.feature li a i{}
+.img-5{
+position: absolute;
+right: 0;    
+}
+.img-5 img{
+    height: 500px;
+}
+.transform-translate{
+    transform: translate(0px, 30px);
+}
+
+
+/*
+*******************************************
+      feature-section-2
+*******************************************
+*/
+
+
+.feature-section-2{
+    background-color: #29377E;
+    padding: 150px 0;
+}
+.feature-3{}
+.feature-3 p{
+    color: #929dcf;
+    padding-top: 16px;
+}
+.feature-2 img{}
+.feature-2{
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.feature-2 h4{
+    position: absolute;
+    bottom: 38px;
+    right: 135px;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 600;
+}
+.feature-3 li{
+    list-style: none;
+}
+.feature-3 li a{text-decoration: none;font-size: 20px;color: #f2622c;}
+
+.white-colour{
+    color: #fff !important;
+}
+
+/*
+*******************************************
+      language-section
+*******************************************
+*/
+
+
+.language-section{
+    padding: 100px 0;
+}
+.language{}
+.language h3{
+    font-size: 26px;
+    color: #28377e;
+    font-weight: 700;
+}
+.language p{
+    font-size: 16px;
+    color: #b1b0b1;
+}
+.language li{list-style: none;}
+.language li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #f2622c;
+    text-transform: uppercase;
+}
+
+
+
+/*
+*******************************************
+      connection-section
+*******************************************
+*/
+
+
+.connecting-section{}
+.table{}
+.btn-custom{}
+
+/*
+*******************************************
+      footer-section
+*******************************************
+*/
+footer{
+     background-color: #28377E;
+    padding: 10px 30px;
+}
+.footer-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+.menu-1{
+    margin-bottom: 0!important;
+}
+.menu-1 li{
+    list-style: none;
+    color: #fff;
+}
+.menu-1 li p{
+    margin: 0;
+}
+.menu-2{
+    display: FLEX;
+}
+.menu-2 li{
+    list-style: none;
+}
+.menu-2 li a{
+    text-decoration: none;
+    padding: 0 15px;
+    color: #fff;
+}
+.menu-2 li a i{
+    text-decoration: none;
+}
+
